@@ -1,1 +1,1 @@
-Hello World
+Store simulator written in C
