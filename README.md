@@ -1,1 +1,1 @@
-# CIS241
+# CIS241 Projects
